@@ -37,7 +37,7 @@ include("header.php");
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="input-group">
-                                                <select name="slider-study-level" id="slider-study-level" class="has-dark-background">
+                                                <select name="slider-study-level" id="slider-study-level" class=" form-control has-dark-background">
                                                     <option value="- Not selected -">Language</option>
                                                     <option value="English">English</option>
                                                     <option value="French">French</option>
@@ -46,7 +46,7 @@ include("header.php");
                                         </div><!-- /.col-md-6 -->
                                         <div class="col-md-6">
                                             <div class="input-group">
-                                                <select name="slider-course" id="slider-course" class="has-dark-background">
+                                                <select name="slider-course" id="slider-course" class="form-control has-dark-background">
                                                     <option value="- Not selected -">Courses</option>
                                                     <option value="ILC">Individual Learning Course </option>
                                                     <option value="AW1">Administrative Writing I</option>
